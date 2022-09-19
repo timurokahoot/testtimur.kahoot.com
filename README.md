@@ -1,2 +1,3 @@
-# testtimur.kahoot.com
-test subdomain takeover
+# Kahoot
+
+U3ViZG9tYWluIFRha2VvdmVyIFRlc3QKVGltdXJvQGthaG9vdC5jb20=
